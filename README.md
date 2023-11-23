@@ -40,5 +40,7 @@ $ python M_fujita_2020S_01_01.py 6
 
 # 実は・・・
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle2\left\{\left(\frac{(2n-2)!}{(n-1)!(n-1)}\right)^2-\left(\frac{(2n-2)!}{(n-2)!n!}\right)^2\right\}" >
+```math
+\displaystyle2\left\{\left(\frac{(2n-2)!}{(n-1)!(n-1)}\right)^2-\left(\frac{(2n-2)!}{(n-2)!n!}\right)^2\right\}
+```
 で求められます。
