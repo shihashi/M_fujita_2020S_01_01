@@ -7,18 +7,7 @@
 下図のような道のある街で，道を通って最短距離で A から B まで行き，再び最短距離で A まで戻る道順を考える。
 道順は全部で （ アイウ ） 通りあり，これらのうち A 以外の地点を 2 度通ることのない道順は全部で （ エオ ） 通りある。
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="190" height="130" style="background-color: #fff">
-  <line x1="20" y1="20" x2="170" y2="20" stroke="black" />
-  <line x1="20" y1="50" x2="170" y2="50" stroke="black" />
-  <line x1="20" y1="80" x2="170" y2="80" stroke="black" />
-  <line x1="20" y1="110" x2="170" y2="110" stroke="black" />
-  <line x1="20" y1="20" x2="20" y2="110" stroke="black" />
-  <line x1="70" y1="20" x2="70" y2="110" stroke="black" />
-  <line x1="120" y1="20" x2="120" y2="110" stroke="black" />
-  <line x1="170" y1="20" x2="170" y2="110" stroke="black" />
-  <text x="9" y="121">A</text>
-  <text x="171" y="19">B</text>
-</svg>
+![fig](fig.svg)
 
 # 実行結果
 
