@@ -3,7 +3,7 @@
 #
 # M_fujita_2020S_01_01.py
 #
-# Copyright (c) 2021 shihashi
+# Copyright (c) 2021-2023 shihashi
 #
 # Released under the MIT license.
 # see https://opensource.org/licenses/mit-license.php
